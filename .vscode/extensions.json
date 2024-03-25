@@ -1,0 +1,3 @@
+{
+  "recommendations": ["mtxr.sqltools", "mtxr.sqltools-driver-mysql", "batisteo.vscode-django", "ms-python.vscode-pylance", "ms-python.python", "monosans.djlint", "ms-python.autopep8"]
+}
